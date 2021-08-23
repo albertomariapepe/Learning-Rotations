@@ -1,3 +1,3 @@
 # Learning-Rotations
 
-Code for the work "Learning Rotations" at AGACSE 2021
+Code for the work "Learning Rotations", AGACSE 2021
