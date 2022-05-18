@@ -8,3 +8,6 @@ employing a full geometric algebra (GA) description of rotations. We compare the
 GA formulation with a 6D continuous representation previously presented in the
 literature in terms of regression error and reconstruction accuracy. We empirically
 demonstrate that parametrizing rotations as bivectors outperforms the 6D representation. 
+
+The notebooks contain the code to generate the dataset and to process them.
+The ready to use datasets can be obtained from the authors upon request. 
